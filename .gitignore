@@ -3,5 +3,3 @@ __pycache__/
 .venv/
 .gradio
 .idea
-.vscode/
-.ipynb_checkpoints/
