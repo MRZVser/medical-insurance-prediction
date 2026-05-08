@@ -29,7 +29,7 @@ Region — Район проживания бенефициара в США (nor
 Charges — Индивидуальные медицинские расходы, оплачиваемые медицинской страховкой (в долларах США).
 
 # Технологии
-Python 3.12
-Scikit-learn
-Pandas, NumPy
+Python 3.12, 
+Scikit-learn, 
+Pandas, NumPy, 
 Matplotlib / Seaborn
